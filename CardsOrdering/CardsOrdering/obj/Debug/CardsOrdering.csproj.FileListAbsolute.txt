@@ -1,0 +1,6 @@
+C:\Users\Abhijith\Desktop\CusJo\CardsOrdering\CardsOrdering\bin\Debug\CardsOrdering.exe.config
+C:\Users\Abhijith\Desktop\CusJo\CardsOrdering\CardsOrdering\bin\Debug\CardsOrdering.exe
+C:\Users\Abhijith\Desktop\CusJo\CardsOrdering\CardsOrdering\bin\Debug\CardsOrdering.pdb
+C:\Users\Abhijith\Desktop\CusJo\CardsOrdering\CardsOrdering\obj\Debug\CardsOrdering.csprojResolveAssemblyReference.cache
+C:\Users\Abhijith\Desktop\CusJo\CardsOrdering\CardsOrdering\obj\Debug\CardsOrdering.exe
+C:\Users\Abhijith\Desktop\CusJo\CardsOrdering\CardsOrdering\obj\Debug\CardsOrdering.pdb

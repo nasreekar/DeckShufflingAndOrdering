@@ -11,9 +11,11 @@ We are given a deck containing n cards.  While holding the deck:
 * Pick up the deck from the table and repeat steps 1-3 until the deck is in the original order.
     
 ## Solution
+Code can be directly accessed through this link below: https://github.com/nasreekar/DeckShufflingAndOrdering/blob/master/CardsOrdering/CardsOrdering/Program.cs
+
 * The program is a console application that will require an input for the total number of cards in the deck.
 * Assign card values (From 1 to less than equal to number of cards in deck)
-* Use of queue's
+* Use of Lists,queue's and arrays
 
 ## Bottom Line
 I think this problem can be solved in many other ways for better optimization. But this is my take on it.

@@ -52,11 +52,12 @@ namespace CardsOrdering
             shuffArr = loopFunc(shuffArr);
 
             //checking if shuffle array sequence is same as original array
-            if(!shuffArr.SequenceEqual(origArr))
+            while(!shuffArr.SequenceEqual(origArr))
             {
                 shuffArr = loopFunc(shuffArr);
                 sRound++;
             }
+
             return sRound;
         }
 
